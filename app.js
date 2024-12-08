@@ -46,7 +46,7 @@ let inactivityTimer;
 function resetInactivityTimer() {
     clearTimeout(inactivityTimer); // รีเซ็ตตัวจับเวลา
     inactivityTimer = setTimeout(() => {
-        window.location.href = "home.html"; // เปลี่ยนไปยังหน้า home
+        window.location.href = "index.html"; // เปลี่ยนไปยังหน้า home
     }, 15000); // ตั้งเวลา 10 วินาที
 }
 
