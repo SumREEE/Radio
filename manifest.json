@@ -1,7 +1,7 @@
 {
     "name": "thewirelesshouseonebangkok",
     "short_name": "thewirelesshouseonebangkok",
-    "start_url": "home.html",
+    "start_url": "index.html",
     "display": "standalone",
     "background_color": "#B8B6AD",
     "theme_color": "#000000",
